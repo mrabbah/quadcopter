@@ -2,7 +2,7 @@
 ----
 L'objectif est de construire un QUADCOPTER autonome.
 
-![shémas global](images/3.PNG)
+![shémas global](images/3.png)
 
 Exemple:
 
@@ -26,7 +26,7 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 ## Phase 2 (Vision cible)
 
 1. Définir le shcéma électrique cible, exemple:
-![shémas global](images/1.PNG)
+![shémas global](images/1.png)
 
 2. Définir le schéma énergitique cible
 3. Définir les interfaces de communication (communication entre cate d'acquisition commande et la carte embarquée, communication entre carte embarquée et ordianateur distant)
@@ -37,7 +37,7 @@ L'objectif de cette phase est d'étudier le robot en notre possession, ensuite d
 
 1. Montage du drone (énergitique, mécanique et électronique)
 
-![](images/2.PNG)
+![](images/2.png)
 2. Programmation de la carte embarquée pour communiquer avec la carte d'acquisition et commande
 4. Tests d'intégrations
 
